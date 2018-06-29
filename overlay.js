@@ -1,8 +1,6 @@
-/*
-TODO: DEBUG $(window)on(scroll), $(window)off(scroll). Currently, the popup is not triggered again after the window is closed.
+//TODO: DEBUG $(window)on(scroll), $(window)off(scroll). Currently, the popup is not triggered again after the window is closed.
 
-TODO: CHECK BROWSER COMPATIBILITY FOR DESKTOP/MOBILE (tested in Chrome) 
-*/
+//TODO: CHECK BROWSER COMPATIBILITY FOR DESKTOP/MOBILE (tested in Chrome) 
 
 // store cart data in variables
 let imgs = [];
